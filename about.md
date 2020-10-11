@@ -24,9 +24,11 @@ Long story. I've always loved messing around with tech since I was very young, a
 
 I started programming in Java in high school, but there was always the <i>I know how to program, but what should I do with it?</i> problem. I went to volunteer at a summer camp in China for one summer; my main goal was to teach English, but I thought, why not write a program that teaches kids how to type the alphabet? So with my basic <code>System.out.println()</code> and <code>System.in.readln()</code> functions in hand, I wrote a little Java applet that asked kids to type  out every letter of the alphabet, increasing the difficulty by setting a time limit. 
 
-<i>"Well, that was fun,"</t> I thought to myself as I came home on a non air-conditioned bus from rural Shanghai. So I literally took those two things to the test and started pursuing a degree in computer science and linguistics. 
+<i>"Well, that was fun,"</i> I thought to myself as I came home on a non air-conditioned bus from rural Shanghai. So I literally took those two things to the test and started pursuing a degree in computer science and linguistics. 
 
 <br>
+
+
 <b>How did it work out for you?</b>
 
 I mean, I'm definitely still at the start of my journey. School teaches a lot of theoretical information (both computer science and linguistics) so I'm very eager to take it to the test and see what it's actually like. 
