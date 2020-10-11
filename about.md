@@ -12,6 +12,12 @@ Hello and thanks for visiting my site. I feel like I can express myself a lot be
 	
 My name is Chris, and I'm a computer science and linguistics student at the Univesrity of Toront. *gasp* as if you haven't seen it all around the site and on my resume. 
 
+<br>
+<b>Tell me a little bit about yourself.</b>
+
+My name is Chris, I'm a... no. I'll tell you something about myself that's not on my résumé (fancy accent aigu, by the way). Yes, everyone tells you that they love to travel, but I'll do you one better: you can give me some places you want to go, and I can plan a trip for you, in business / first class, for pennies-on-the-dollar using frequent flier points and miles. No seriously... how does round-trip Toronto to Taipei in business class for $50 sound? New York to Singapore on Singapore Airlines for $10? What about Toronto to Vancouver for $50 during peak season? 
+
+<br>
 <b> Why did you get started with computer science?</b>
 
 Long story. I've always loved messing around with tech since I was very young, and at some point I realized that I was different from a lot of my peers: I didn't like computer games; I like the computer itself. My favourite app on my old iPod touch was the "settings" app, since I got to tinker with the different cool features that people usually don't notice. 
@@ -20,6 +26,7 @@ I started programming in Java in high school, but there was always the <i>I know
 
 <i>"Well, that was fun,"</t> I thought to myself as I came home on a non air-conditioned bus from rural Shanghai. So I literally took those two things to the test and started pursuing a degree in computer science and linguistics. 
 
+<br>
 <b>How did it work out for you?</b>
 
 I mean, I'm definitely still at the start of my journey. School teaches a lot of theoretical information (both computer science and linguistics) so I'm very eager to take it to the test and see what it's actually like. 
