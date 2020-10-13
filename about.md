@@ -10,7 +10,7 @@ layout: page
 <p>
 Hello and thanks for visiting my site. I feel like I can express myself a lot better now that I'm not limited by the 1-2 lines of text allowed on LinkedIn. 
 	
-My name is Chris, and I'm a computer science and linguistics student at the Univesrity of Toront. *gasp* as if you haven't seen it all around the site and on my resume. </p>
+My name is Chris, and I'm a computer science and linguistics student at the Univesrity of Toronto. *gasp* as if you haven't seen it all around the site and on my resume. </p>
 
 <br>
 <b>Tell me a little bit about yourself.</b>
